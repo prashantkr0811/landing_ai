@@ -160,7 +160,7 @@ export const resourcesLinks = [
   { href: "#workflow", text: "Documentation" },
   { href: "#", text: "Tutorials" },
   { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { hhuref: "#", text: "Community Forums" },
 ];
 
 export const platformLinks = [
